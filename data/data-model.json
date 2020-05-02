@@ -1,0 +1,33 @@
+{
+  "location": {
+    "state":"CO",
+    "city":"Denver",
+  },
+  "members": [
+    {
+      "firstName": "Blake",
+      "lastName": "Yarbrough",
+      "age": "27yrs"
+    },
+    {
+      "firstName": "Kacey",
+      "lastName": "Yarbrough",
+      "age": "28yrs"
+    },
+    {
+      "firstName": "Maya",
+      "lastName": "Yarbrough",
+      "age": "6mo"
+    },
+    {
+      "firstName": "Huxley",
+      "lastName": "Yarbrough",
+      "age": "5"
+    },
+    {
+      "firstName": "Blu",
+      "lastName": "Yarbrough",
+      "age": "4"
+    }
+  ]
+}
